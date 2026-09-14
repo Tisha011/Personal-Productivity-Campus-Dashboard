@@ -1,4 +1,4 @@
-# 🌟 Sumu's Project - Personal Dashboard
+# 🌟Personal Productivity & Campus Dashboard
 
 A sleek, interactive, and personalized web-based dashboard designed to help manage productivity, track finances, and seamlessly navigate the university campus. The project features a soft beige and light brown theme with customizable accent colors.
 
